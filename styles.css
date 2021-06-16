@@ -1,0 +1,15 @@
+.all-boxes {
+  display: flex;
+  margin: auto;
+  flex-direction: row;
+  justify-content: center;
+  margin: auto;
+}
+.box {
+  align-items: center;
+  border-style: groove;
+  border-color: orangered;
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+}
